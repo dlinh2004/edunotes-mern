@@ -29,3 +29,7 @@ npm run dev
 cd client
 npm install
 npm run dev
+
+### Liên kết thử nghiệm (Live Demo)
+- Frontend: [https://edunotes-mern-1.onrender.com](https://edunotes-mern-1.onrender.com)
+- Backend API: [https://edunotes-mern.onrender.com](https://edunotes-mern.onrender.com)
